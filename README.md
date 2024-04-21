@@ -8,7 +8,7 @@ Hi there 👋  I'm Yashika Jaiswal, also known as yashikajaiswal31.
 
 💬 I am happy to share my knowledge and answer any questions you might have about Java, Python, C++, web development, app development, idea innovation.
 
-📫 You can find me on Link to [Linkedin](https://www.linkedin.com/in/yashika-jaiswal-b71523218/), so feel free to get in touch!
+📫 You can find me on  [Linkedin](https://www.linkedin.com/in/yashika-jaiswal-b71523218/), so feel free to get in touch!
 
 😄 Pronouns: She/Her
 
