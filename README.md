@@ -19,13 +19,9 @@ Hi there 👋  I'm Yashika Jaiswal, also known as yashikajaiswal31.
 🧰 Languages and Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" width="50" height="50" />
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50" />
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50" height="50" />
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS logo" width="50"  height="50"/>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender logo" width="50" height="50" />
  
 <!--
