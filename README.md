@@ -1,5 +1,7 @@
 Hi there 👋  I'm Yashika Jaiswal, also known as yashikajaiswal31.
 
+---
+
 🔭 I’m currently pursuing B.tech in Computer Science from Symbiosis Institute of technology.
 
 🌱 My interests are varied, and I am interested in Java, Python, C++, web development, app development and idea innovation. I am currently learning OOPS in java.
